@@ -1,0 +1,33 @@
+body {
+    background-image: url(https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/03/adult-and-young-edward-and-alphonse-elric.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+div {
+    background-color: rgb(117, 1, 1);
+    width: 700px;
+    border: 5px solid rgb(0, 0, 0);
+    padding: 5px;
+    margin: 0 auto;
+    img {
+        width: 100%;
+    }
+}
+
+.PLOT {
+    padding-left: 350px;
+}
+
+.char {
+    padding-left: 350px;
+}
+
+.jutsu {
+    background-color: rgb(255, 255, 255);
+    height: 80%;
+    border-radius: 10px;
+    color: rgb(117, 1, 1);
+}
